@@ -11,3 +11,4 @@
 
 这是测试一下git commit 的常注释
 
+测试一下git diff的作用
