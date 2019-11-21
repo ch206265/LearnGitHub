@@ -1,14 +1,3 @@
-# test2
-<table>
-  <tr>
-    <th>haha</th>
-    <th>2</th>
-    <th>让我在做一次修改吧</th>
-  </tr>
-</table>
+# 说明
 
-这是测试一下git diff
-
-这是测试一下git commit 的常注释
-
-测试一下git diff的作用
+这个仓库是我熟悉各种git操作的实验用仓。
